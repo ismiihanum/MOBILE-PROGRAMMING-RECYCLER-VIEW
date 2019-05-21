@@ -1,0 +1,23 @@
+<resources>
+    <string-array name="club_name"><!-- nama array nya-->
+        <item>Barcelona FC</item>  <!-- array 0-->
+        <item>Real Madrid FC</item>  <!-- array 1-->
+        <item>Bayern Munchen FC</item> <!-- array 2-->
+        <item>Manchester City FC</item> <!-- array 3-->
+        <item>Manchester United FC</item> <!-- array 4-->
+        <item>Chelsea FC</item> <!-- array 5-->
+        <item>AC Milan FC</item> <!-- array 6-->
+        <item>Arsenal FC</item> <!-- array 7-->
+    </string-array>
+
+    <array name="club_image"><!-- nama array nya-->
+        <item>@drawable/img_barca</item><!-- array 0-->
+        <item>@drawable/img_madrid</item><!-- array 1-->
+        <item>@drawable/img_bayern</item><!-- array 2-->
+        <item>@drawable/img_city</item><!-- array 3-->
+        <item>@drawable/img_mu</item><!-- array 4-->
+        <item>@drawable/img_chelsea</item><!-- array 5-->
+        <item>@drawable/img_acm</item><!-- array 6-->
+        <item>@drawable/img_arsenal</item><!-- array 7-->
+    </array>
+</resources>
